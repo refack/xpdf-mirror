@@ -1,15 +1,12 @@
-# xpdfreader Open Source Repository
-
-This README file provides an overview of the [xpdfreader](https://www.xpdfreader.com/download.html) open-source
-project. This file was generated automatically from the source code repository.
+# xpdf - unofficial and reconstructed git mirror
 
 ## Description
-- **Name:** xpdfreader
-- **Version:** 4.05
-- **Author:** [www.xpdfreader.com](https://www.xpdfreader.com)
+- **Name:** xpdf
+- **Version:** 4.06
+- **Author:** [Glyph & Cog, LLC](https://www.xpdfreader.com)
 
-xpdfreader is an open-source implementation of a PDF reader designed to mimic the functionality and interface of
-official software like Adobe Acrobat. It supports various PDF features, including password protection, bookmarks,
+xpdf is a GPL v2 or v3 licenced C++ implementation of a PDF reader designed to mimic the functionality and interface of
+official software like Adobe Acrobat. It supports many PDF features, including password protection, bookmarks,
 and annotations.
 
-[Original README](README)
+[Original README](README_orig.md)
